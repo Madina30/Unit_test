@@ -1,7 +1,7 @@
 from math import pi
 
 def circle_area(radius):
-    return pi*radius**2
+    return 2*pi*radius
 
 # r_list = [2, 0, -3, 2+3j, True, [2], 'seven']
 # message = 'Площадь окружности с радиусом {radius} -> {area}'
